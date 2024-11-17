@@ -17,6 +17,3 @@ Diseñe y desarrolle un landing page interactiva utilizando React, Tailwind CSS 
 
 ## 🧤 Uso
 Los usuarios pueden interactuar con la página para explorar información y servicios, navegar entre secciones fácilmente y guiar al usuario con botones de llamada a la acción.
-
-## 📄 Link a mi página.
-![Proyecto Landing Page](https://harmonizer-landingpage.vercel.app/)
