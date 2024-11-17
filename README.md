@@ -1,8 +1,22 @@
-# React + Vite
+# Landing Page Personal
+![Banner Proyecto](https://github.com/user-attachments/assets/ae0673e8-b602-4ef0-bf43-9514d431f5ac)
+## 📓 Descripción
+Diseñe y desarrolle un landing page interactiva utilizando React, Tailwind CSS y TypeScript. Este proyecto combina un diseño moderno y receptivo con una experiencia de usuario fluida, ideal para presentar servicios, productos e información de manera profesional.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Indice
+* [Funcionalidades](#funcionalidades)
+* [Uso](#uso)
+* [Soporte y ayuda](#soporte-y-ayuda)
+* [Link](#link)
 
-Currently, two official plugins are available:
+## 🔨 Funcionalidades
+* **Diseño responsivo para todos los dispositivos.**
+* **Navegación intituiva con secciones bien organizadas.**
+* **Secciones informativas que destacan los servicios o productos ofrecidos.**
+* **Botones de llamada a la acción (CTA) para guiar al usuario hacia los objetivos principales.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧤 Uso
+Los usuarios pueden interactuar con la página para explorar información y servicios, navegar entre secciones fácilmente y guiar al usuario con botones de llamada a la acción.
+
+## 📄 Link a mi página.
+![Proyecto Landing Page](https://harmonizer-landingpage.vercel.app/)
